@@ -7,3 +7,5 @@ Winning Rules as follows :
 Rock vs paper-> paper wins
 Rock vs scissor-> Rock wins
 paper vs scissor-> scissor wins.
+
+In this game, randint() inbuilt function is used for generating random integer value within the given range.
